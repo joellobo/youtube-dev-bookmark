@@ -3,6 +3,7 @@
 # youtube
 
 Portuguese\
+[DIO](https://www.youtube.com/@diomakethechange/videos)\
 [RenatoMotaDev](https://www.youtube.com/@RenatoMotaDev/videos/videos)\
 [@rocketseat](https://www.youtube.com/@rocketseat/videos)\
 [@MatheusBattisti](https://www.youtube.com/@MatheusBattisti/videos)\
