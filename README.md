@@ -33,7 +33,7 @@ Portuguese\
 [Giuliana Bezerra](https://www.youtube.com/@RenatoMotaDev/videos)\
 [O Igor Rudel](https://www.youtube.com/@oigorrudel/videos)\
 [DevSuperiorl](https://www.youtube.com/@DevSuperior/videos)\
-[Coffee And IT](https://www.youtube.com/@DevSuperior/videos)\
+[Coffee And IT](https://www.youtube.com/@coffeeandit/videos)\
 [Madson Silva](https://www.youtube.com/@maddytec/videos)\
 [Rodrigo Freitas](https://www.youtube.com/@RodrigoFreitasAlv/videos)\
 [Fernanda Kipper | Dev](https://www.youtube.com/@kipperdev/videos)\
