@@ -6,7 +6,7 @@ Portuguese\
 [Dailan Bueno | Dev](https://www.youtube.com/@daylanbueno/videos)\
 [DIO](https://www.youtube.com/@diomakethechange/videos)\
 [RenatoMotaDev](https://www.youtube.com/@RenatoMotaDev/videos/videos)\
-[@rocketseat](https://www.youtube.com/@rocketseat/videos)\
+[Rocketseat](https://www.youtube.com/@rocketseat/videos)\
 [@MatheusBattisti](https://www.youtube.com/@MatheusBattisti/videos)\
 [@baltaio](https://www.youtube.com/@baltaio/videos)\
 [@codigofontetv](https://www.youtube.com/@codigofontetv/videos)\
