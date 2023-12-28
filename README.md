@@ -3,6 +3,7 @@
 # youtube
 
 Portuguese\
+[CodandoTV](https://www.youtube.com/@CodandoTV/videos)\
 [Alex Felipe](https://www.youtube.com/@AlexFelipeDev/videos)\
 [Dailan Bueno | Dev](https://www.youtube.com/@daylanbueno/videos)\
 [DIO](https://www.youtube.com/@diomakethechange/videos)\
