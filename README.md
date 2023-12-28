@@ -42,5 +42,5 @@ Portuguese\
 [RinaldoDev](https://www.youtube.com/@rinaldodev/videos)\
 [Otavio Santana](https://www.youtube.com/@otaviojava/videos)\
 [SouJava](https://www.youtube.com/@SouJava/videos)\
-[Zup](https://www.youtube.com/@zupinnovation/videos)\
-[Michelli Brito](https://www.youtube.com/@MichelliBrito/videos)
+[Zup](https://www.youtube.com/@zupinnovation/videos) #java #architecture\
+[Michelli Brito](https://www.youtube.com/@MichelliBrito/videos) #java
