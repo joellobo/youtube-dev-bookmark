@@ -3,6 +3,7 @@
 # youtube
 
 Portuguese\
+[Dailan Bueno | Dev](https://www.youtube.com/@daylanbueno/videos)\
 [DIO](https://www.youtube.com/@diomakethechange/videos)\
 [RenatoMotaDev](https://www.youtube.com/@RenatoMotaDev/videos/videos)\
 [@rocketseat](https://www.youtube.com/@rocketseat/videos)\
