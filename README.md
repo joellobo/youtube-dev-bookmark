@@ -3,6 +3,7 @@
 # youtube
 
 Portuguese\
+[Alex Felipe](https://www.youtube.com/@AlexFelipeDev/videos)\
 [Dailan Bueno | Dev](https://www.youtube.com/@daylanbueno/videos)\
 [DIO](https://www.youtube.com/@diomakethechange/videos)\
 [Renato Mota](https://www.youtube.com/@RenatoMotaDev/videos/videos)\
