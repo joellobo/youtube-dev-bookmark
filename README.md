@@ -4,7 +4,8 @@
 
 Portuguese\
 
-[Prof. Thomás da Costa](https://www.youtube.com/@thomasdacosta/videos)\ #java #aws #springboot #sqs
+[Prof. Thomás da Costa](https://www.youtube.com/@thomasdacosta/videos) 
+#java #aws #springboot #sqs \
 [CodandoTV](https://www.youtube.com/@CodandoTV/videos)\
 [Alex Felipe](https://www.youtube.com/@AlexFelipeDev/videos)\
 [Dailan Bueno | Dev](https://www.youtube.com/@daylanbueno/videos)\
