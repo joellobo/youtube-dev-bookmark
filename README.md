@@ -1,5 +1,7 @@
 Portuguese
 
+[Matheus Battisti - Hora de Codar](https://www.youtube.com/@MatheusBattisti/videos) #javascript #typescript #angular #git #react #nodejs
+
 [Otavio Lemos](https://www.youtube.com/@otaviolemos/videos) #cleancode #typescript #javascript #cleanarchitecture 
 
 [Prof. Thomás da Costa](https://www.youtube.com/@thomasdacosta/videos) #java #aws #springboot #sqs 
