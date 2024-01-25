@@ -1,29 +1,28 @@
-Portuguese
-[Lucas Gertel](https://www.youtube.com/@lgertel/videos) #java #ddd #axon
+[Lucas Gertel](https://www.youtube.com/@lgertel/videos) #pt #java #ddd #axon
 
-[Alex - JDev Treinamento on-line](https://www.youtube.com/@Javaavancado/videos) #java #spring #thymeleaf
+[Alex - JDev Treinamento on-line](https://www.youtube.com/@Javaavancado/videos) #pt #java #spring #thymeleaf
 
-[Matheus Battisti - Hora de Codar](https://www.youtube.com/@MatheusBattisti/videos) #javascript #typescript #angular #git #react #nodejs
+[Matheus Battisti - Hora de Codar](https://www.youtube.com/@MatheusBattisti/videos) #pt #javascript #typescript #angular #git #react #nodejs
 
-[Otavio Lemos](https://www.youtube.com/@otaviolemos/videos) #cleancode #typescript #javascript #cleanarchitecture 
+[Otavio Lemos](https://www.youtube.com/@otaviolemos/videos) #pt #cleancode #typescript #javascript #cleanarchitecture 
 
-[Prof. Thomás da Costa](https://www.youtube.com/@thomasdacosta/videos) #java #aws #springboot #sqs 
+[Prof. Thomás da Costa](https://www.youtube.com/@thomasdacosta/videos) #pt #java #aws #springboot #sqs 
 
-[CodandoTV](https://www.youtube.com/@CodandoTV/videos)
+[CodandoTV](https://www.youtube.com/@CodandoTV/videos) #pt
 
-[Alex Felipe](https://www.youtube.com/@AlexFelipeDev/videos)
+[Alex Felipe](https://www.youtube.com/@AlexFelipeDev/videos) #pt
 
-[Dailan Bueno | Dev](https://www.youtube.com/@daylanbueno/videos)
+[Dailan Bueno | Dev](https://www.youtube.com/@daylanbueno/videos) #pt
 
-[DIO](https://www.youtube.com/@diomakethechange/videos)
+[DIO](https://www.youtube.com/@diomakethechange/videos) #pt
 
-[Renato Mota](https://www.youtube.com/@RenatoMotaDev/videos/videos)
+[Renato Mota](https://www.youtube.com/@RenatoMotaDev/videos/videos) #pt
 
-[Rocketseat](https://www.youtube.com/@rocketseat/videos)
+[Rocketseat](https://www.youtube.com/@rocketseat/videos) #pt
 
-[@MatheusBattisti](https://www.youtube.com/@MatheusBattisti/videos)
+[@MatheusBattisti](https://www.youtube.com/@MatheusBattisti/videos) #pt
 
-[@baltaio](https://www.youtube.com/@baltaio/videos)
+[@baltaio](https://www.youtube.com/@baltaio/videos) #pt
 
 [@codigofontetv](https://www.youtube.com/@codigofontetv/videos)
 
