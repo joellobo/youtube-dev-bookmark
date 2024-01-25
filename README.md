@@ -1,3 +1,5 @@
+[Danilo Caneschi](https://www.youtube.com/@DaniloCaneschi/videos) #pt #java #spring #springboot #ArquiteturaHexagonal #RabbitMQ
+
 [Lucas Gertel](https://www.youtube.com/@lgertel/videos) #pt #java #ddd #axon
 
 [Alex - JDev Treinamento on-line](https://www.youtube.com/@Javaavancado/videos) #pt #java #spring #thymeleaf
