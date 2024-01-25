@@ -1,4 +1,5 @@
 Portuguese
+[Lucas Gertel](https://www.youtube.com/@lgertel/videos) #java #ddd #axon
 
 [Alex - JDev Treinamento on-line](https://www.youtube.com/@Javaavancado/videos) #java #spring #thymeleaf
 
