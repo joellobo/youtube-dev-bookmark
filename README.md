@@ -99,3 +99,5 @@
 [Michelli Brito](https://www.youtube.com/@MichelliBrito/videos) #java 
 
 [Master Dev](https://www.youtube.com/@MasterDevTV/videos) #java #springboot #rust #rabbit #kafka
+
+[Amigoscode](https://www.youtube.com/@amigoscode/videos) #java #springboot
