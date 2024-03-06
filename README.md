@@ -96,4 +96,6 @@
 
 [Zup](https://www.youtube.com/@zupinnovation/videos) #java #architecture
 
-[Michelli Brito](https://www.youtube.com/@MichelliBrito/videos) #java
+[Michelli Brito](https://www.youtube.com/@MichelliBrito/videos) #java 
+
+[Master Dev](https://www.youtube.com/@MasterDevTV/videos) #java #springboot #rust #rabbit #kafka
